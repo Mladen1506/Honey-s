@@ -1,0 +1,47 @@
+.nav-honeys,
+.logotype,
+.social-icons{
+    float: left;
+    width: 100%;
+}
+.social-icons{
+    text-align: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.social-icons i.fa{
+    font-size: 30px;
+}
+.social-icons i:nth-child(2){
+    color: #f86868;
+}
+
+.bg-honeys{
+    background-image: url('../img/body-bg.png');
+}
+.logotype{
+    text-align: center;
+    background-color: #ffffff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.nav-honeys nav.bg-light{
+    background-color: #f86868 !important;
+}
+.nav-honeys .navbar-light .navbar-nav .nav-link{
+    color: white !important;
+    text-transform: uppercase;
+}
+.nav-honeys nav{
+    padding: 0;
+}
+.nav-honeys nav ul li:first-child{
+    background-color: black;
+}
+.nav-honeys nav ul li{
+    margin-right: 20px;
+}
+.nav-honeys nav form input{
+    background-color: #f86868;
+    border: transparent;
+}
